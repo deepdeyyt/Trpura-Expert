@@ -1,0 +1,5 @@
+{
+  "name": "Tripura History Expert Chat",
+  "description": "A WhatsApp-style chat interface powered by Gemini to explore the history, culture, and heritage of Tripura with a specialized expert persona.",
+  "requestFramePermissions": []
+}
